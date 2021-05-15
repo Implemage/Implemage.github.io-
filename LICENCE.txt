@@ -1,0 +1,11 @@
+
+/*******************************************************
+
+* Copyright (C) Implemage official - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * {Implemage.github.io} can not be copied and/or distributed without the express
+ * permission of {Implemage official}
+ * For any requests or request related queries email <Implemage.awesomeness@gmail.com>
+
+*******************************************************/
